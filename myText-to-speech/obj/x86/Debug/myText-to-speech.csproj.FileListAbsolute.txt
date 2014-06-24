@@ -1,0 +1,7 @@
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\bin\Debug\myText-to-speech.exe
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\bin\Debug\myText-to-speech.pdb
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\obj\x86\Debug\myText_to_speech.Form1.resources
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\obj\x86\Debug\myText_to_speech.Properties.Resources.resources
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\obj\x86\Debug\myText-to-speech.csproj.GenerateResource.Cache
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\obj\x86\Debug\myText-to-speech.exe
+D:\Dropbox\myText to Speech (C#)\myText-to-speech\myText-to-speech\obj\x86\Debug\myText-to-speech.pdb
